@@ -148,7 +148,7 @@ wheels = [
 
 [[package]]
 name = "kubex-k8s-1-36"
-version = "0.1.0b4"
+version = "0.1.0b5"
 source = { editable = "." }
 dependencies = [
     { name = "kubex-core" },
